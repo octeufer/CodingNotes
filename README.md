@@ -6,4 +6,4 @@ Notes for practical codings
 - [mergeInterval](Leetcode/mergeInterval.md)
 - [productOfArrayExcepSelf](Leetcode/ProductOfArrayExceptSelf.md)
 - [nextPermutation](Leetcode/nextPermutation.md)
-- [permutation](Leetcode/permutation.md)
+- [permutation](Leetcode/Permutation.md)
