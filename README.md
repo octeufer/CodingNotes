@@ -12,3 +12,4 @@ Notes for practical codings
 - [combination](Leetcode/combination.md)
 - [partition1](Leetcode/partition1.md)
 - [majorityElement](Leetcode/majorityElement.md)
+- [plusOne](Leetcode/plusOne.md)
