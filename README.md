@@ -13,3 +13,5 @@ Notes for practical codings
 - [partition1](Leetcode/partition1.md)
 - [majorityElement](Leetcode/majorityElement.md)
 - [plusOne](Leetcode/plusOne.md)
+- [mergeSortedArray](Leetcode/mergeSortedArray.md)
+- [moveZeroes](Leetcode/moveZeroes.md)
