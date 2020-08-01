@@ -1,6 +1,8 @@
 # CodingNotes
 Notes for practical codings
 
+- [Array](#array)
+
 ## Array
 
 - [kSum](Leetcode/KSum.md)
