@@ -15,3 +15,4 @@ Notes for practical codings
 - [plusOne](Leetcode/plusOne.md)
 - [mergeSortedArray](Leetcode/mergeSortedArray.md)
 - [moveZeroes](Leetcode/moveZeroes.md)
+- [rotateImage](Leetcode/rotateImage.md)
