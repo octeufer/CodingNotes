@@ -19,3 +19,4 @@ Notes for practical codings
 - [moveZeroes](Leetcode/moveZeroes.md)
 - [rotateImage](Leetcode/rotateImage.md)
 - [gameOfLife](Leetcode/gameOfLife.md)
+- [spiralMatrix](Leetcode/spiralMatrix.md)
