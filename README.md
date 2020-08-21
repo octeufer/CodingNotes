@@ -2,6 +2,7 @@
 Notes for practical codings
 
 - [Array](#array)
+- [Tree](#tree)
 
 ## Array
 
@@ -21,3 +22,7 @@ Notes for practical codings
 - [gameOfLife](Leetcode/gameOfLife.md)
 - [spiralMatrix](Leetcode/spiralMatrix.md)
 - [searchRotatedSortedArray](Leetcode/searchRotatedSortedArray.md)
+
+
+## Tree
+- [diameterBinaryTree](Leetcode/diameterBT.md)
