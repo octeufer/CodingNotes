@@ -21,7 +21,7 @@ Notes for practical codings
 - [rotateImage](Leetcode/rotateImage.md)
 - [gameOfLife](Leetcode/gameOfLife.md)
 - [spiralMatrix](Leetcode/spiralMatrix.md)
-- [searchRotatedSortedArray](Leetcode/searchRotatSortedArray.md)
+- [searchRotatedSortedArray](Leetcode/searchRotateSortedArray.md)
 
 
 ## Tree
