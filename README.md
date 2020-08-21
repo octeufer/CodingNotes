@@ -21,8 +21,12 @@ Notes for practical codings
 - [rotateImage](Leetcode/rotateImage.md)
 - [gameOfLife](Leetcode/gameOfLife.md)
 - [spiralMatrix](Leetcode/spiralMatrix.md)
+<<<<<<< HEAD
 - [searchRotatedSortedArray](Leetcode/searchRotatedSortedArray.md)
 
 
 ## Tree
 - [diameterBinaryTree](Leetcode/diameterBT.md)
+=======
+- [searchRotatedSortedArray](Leetcode/searchRotateSortedArray.md)
+>>>>>>> bb249b183c6767203b673d85a72a95393c579d26
