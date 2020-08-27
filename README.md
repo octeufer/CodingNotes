@@ -29,4 +29,4 @@ Notes for practical codings
 - [diameterBinaryTree](Leetcode/diameterBT.md)
 
 ## String
-- [longestSubstringWithoutRepeat](Leetcode/longestSUbwithoutRepeat.md)
+- [longestSubstringWithoutRepeat](Leetcode/longestSubwithoutRepeat.md)
