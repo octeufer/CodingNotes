@@ -3,6 +3,7 @@ Notes for practical codings
 
 - [Array](#array)
 - [Tree](#tree)
+- [String](#string)
 
 ## Array
 
@@ -26,3 +27,6 @@ Notes for practical codings
 
 ## Tree
 - [diameterBinaryTree](Leetcode/diameterBT.md)
+
+## String
+- [longestSubstringWithoutRepeat](Leetcode/longestSUbwithoutRepeat.md)
